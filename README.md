@@ -38,6 +38,16 @@ In this game, the computer randomly generates a number between **1 and 100**. Th
 * JavaScript Functions
 * Random Number Generation
 
+## Screenshot
+
+<img width="1902" height="902" alt="image" src="https://github.com/user-attachments/assets/c6cac671-32f0-45b4-8ba2-cf3738eb0efc" />
+
+## Live Demo
+
+https://ashish-dwivedi-code.github.io/NUmber-Guessing-Game/
+
+
+
 ## Author
 
 Ashish Dwivedi
