@@ -1,0 +1,64 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:linear-gradient(135deg,#081b31,#0d2c4f);
+    font-family:Arial, sans-serif;
+}
+
+.container{
+    background:white;
+    padding:30px;
+    width:400px;
+    border-radius:15px;
+    text-align:center;
+    box-shadow:0 0 20px rgba(0,0,0,0.3);
+}
+
+h1{
+    margin-bottom:15px;
+}
+
+input{
+    width:100%;
+    padding:12px;
+    margin:15px 0;
+    font-size:18px;
+}
+
+button{
+    padding:10px 20px;
+    margin:8px;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+    font-size:16px;
+}
+
+#checkBtn{
+    background:#081b31;
+    color:white;
+}
+
+#restartBtn{
+    background:green;
+    color:white;
+}
+
+#message{
+    margin-top:15px;
+    font-size:18px;
+    font-weight:bold;
+}
+
+#attempts{
+    color:red;
+    font-weight:bold;
+}
